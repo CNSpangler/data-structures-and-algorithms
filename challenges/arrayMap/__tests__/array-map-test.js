@@ -1,9 +1,9 @@
 const {
     map
-} = require('./array-map.js');
+} = require('../array-map.js');
 
 function addOne(num) {
-    return num++
+    return num + 1;
 };
 
 const numArray = [1, 2, 3, 4]

@@ -17,3 +17,5 @@ function map(array, callback) {
     }
     return newArray;
 }
+
+//testing
